@@ -32,37 +32,31 @@ Sonidos personalizables para alarmas programadas, marcas sonoras cada hora para 
 Diseño minimalista con controles claramente identificados, ventana redimensionable de 400x600 píxeles, botones de radio para selección de modo y campos de entrada validados para configuración de alarmas.
 
 ---
-<img width="177" height="145" alt="Image" src="https://github.com/user-attachments/assets/9ff71603-c4df-4cac-8b42-d4f1777596f1" />
-
-<img width="567" height="198" alt="Image" src="https://github.com/user-attachments/assets/5f273d0c-0616-4280-9473-ee3671c8a164" />
-
-<img width="543" height="626" alt="Image" src="https://github.com/user-attachments/assets/3de6005e-f71f-4630-87d6-bfb759d7dead" />
-
-<img width="545" height="627" alt="Image" src="https://github.com/user-attachments/assets/59e2304a-1713-4b9c-a939-9987d260d1cf" />
 
 ## **Capturas de Pantalla**
 
 ### **Interfaz Principal - Modo Digital**
 
-![Reloj Digital](screenshots/reloj-digital.png)
+
+<img width="543" height="626" alt="Image" src="https://github.com/user-attachments/assets/3de6005e-f71f-4630-87d6-bfb759d7dead" />
 
 *Vista del reloj en modo digital mostrando la hora actual con números grandes y legibles*
 
 ### **Interfaz Principal - Modo Análogo**
 
-![Reloj Análogo](screenshots/reloj-analogo.png)
+<img width="567" height="198" alt="Image" src="https://github.com/user-attachments/assets/5f273d0c-0616-4280-9473-ee3671c8a164" />
 
 *Vista del reloj en modo análogo con manecillas tradicionales y números horarios*
 
 ### **Panel de Configuración de Alarmas**
 
-![Configuración de Alarmas](screenshots/configuracion-alarmas.png)
+<img width="545" height="627" alt="Image" src="https://github.com/user-attachments/assets/59e2304a-1713-4b9c-a939-9987d260d1cf" />
 
 *Panel de control para configurar y gestionar alarmas personalizadas*
 
 ### **Notificación de Alarma Activa**
 
-![Alarma Activada](screenshots/alarma-activada.png)
+<img width="177" height="145" alt="Image" src="https://github.com/user-attachments/assets/9ff71603-c4df-4cac-8b42-d4f1777596f1" />
 
 *Ventana de notificación emergente cuando se activa una alarma programada*
 
