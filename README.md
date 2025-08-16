@@ -37,29 +37,25 @@ Diseño minimalista con controles claramente identificados, ventana redimensiona
 
 ### **Interfaz Principal - Modo Digital**
 
-<!-- Agregar imagen aquí -->
-![Reloj Digital](<img width="545" height="627" alt="Image" src="https://github.com/user-attachments/assets/59e2304a-1713-4b9c-a939-9987d260d1cf" />)
+![Reloj Digital](screenshots/reloj-digital.png)
 
 *Vista del reloj en modo digital mostrando la hora actual con números grandes y legibles*
 
 ### **Interfaz Principal - Modo Análogo**
 
-<!-- Agregar imagen aquí -->
-![Reloj Análogo](<img width="543" height="626" alt="Image" src="https://github.com/user-attachments/assets/3de6005e-f71f-4630-87d6-bfb759d7dead" />)
+![Reloj Análogo](screenshots/reloj-analogo.png)
 
 *Vista del reloj en modo análogo con manecillas tradicionales y números horarios*
 
 ### **Panel de Configuración de Alarmas**
 
-<!-- Agregar imagen aquí -->
-![Configuración de Alarmas](<img width="567" height="198" alt="Image" src="https://github.com/user-attachments/assets/5f273d0c-0616-4280-9473-ee3671c8a164" />)
+![Configuración de Alarmas](screenshots/configuracion-alarmas.png)
 
 *Panel de control para configurar y gestionar alarmas personalizadas*
 
 ### **Notificación de Alarma Activa**
 
-<!-- Agregar imagen aquí -->
-![Alarma Activada](<img width="177" height="145" alt="Image" src="https://github.com/user-attachments/assets/9ff71603-c4df-4cac-8b42-d4f1777596f1" />)
+![Alarma Activada](screenshots/alarma-activada.png)
 
 *Ventana de notificación emergente cuando se activa una alarma programada*
 
