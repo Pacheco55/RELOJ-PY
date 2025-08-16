@@ -37,13 +37,13 @@ Diseño minimalista con controles claramente identificados, ventana redimensiona
 
 ### **Interfaz Principal - Modo Digital**
 
-<img width="543" height="626" alt="Image" src="https://github.com/user-attachments/assets/3de6005e-f71f-4630-87d6-bfb759d7dead" />
+<img width="545" height="627" alt="Image" src="https://github.com/user-attachments/assets/59e2304a-1713-4b9c-a939-9987d260d1cf" />
 
 *Vista del reloj en modo digital mostrando la hora actual con números grandes y legibles*
 
 ### **Interfaz Principal - Modo Análogo**
 
-<img width="545" height="627" alt="Image" src="https://github.com/user-attachments/assets/59e2304a-1713-4b9c-a939-9987d260d1cf" />
+<img width="543" height="626" alt="Image" src="https://github.com/user-attachments/assets/3de6005e-f71f-4630-87d6-bfb759d7dead" />
 
 *Vista del reloj en modo análogo con manecillas tradicionales y números horarios*
 
